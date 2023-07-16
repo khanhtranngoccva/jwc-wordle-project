@@ -1,0 +1,18 @@
+.keyboard {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-direction: column;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    gap: 8px;
+}
+
+.key {
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
